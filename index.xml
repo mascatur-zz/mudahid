@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mudah Indonesia</title>
-    <link>https://mudah.id/index.xml</link>
+    <link>https://www.mudah.id/index.xml</link>
     <description>Recent content on Mudah Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     <lastBuildDate>Tue, 18 Apr 2017 13:26:09 +0700</lastBuildDate>
-    <atom:link href="https://mudah.id/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.mudah.id/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Salah Paham Tentang Hacker</title>
-      <link>https://mudah.id/blog/salah-paham-tentang-hacker/</link>
+      <link>https://www.mudah.id/blog/salah-paham-tentang-hacker/</link>
       <pubDate>Tue, 18 Apr 2017 13:26:09 +0700</pubDate>
       
-      <guid>https://mudah.id/blog/salah-paham-tentang-hacker/</guid>
+      <guid>https://www.mudah.id/blog/salah-paham-tentang-hacker/</guid>
       <description>
 
 &lt;p&gt;Apa yang anda pikirkan saat mendengar kata hacker ? Seorang kriminal ? berbahaya? misterius ? merusak ?
@@ -88,10 +88,10 @@ Film dan media yang pertama kali memulai kesalahpahaman itu, hingga sekarang.&lt
     
     <item>
       <title>Credits</title>
-      <link>https://mudah.id/about/</link>
+      <link>https://www.mudah.id/about/</link>
       <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mudah.id/about/</guid>
+      <guid>https://www.mudah.id/about/</guid>
       <description>&lt;p&gt;Mudah Indonesia is a website for beginner.&lt;/p&gt;
 
 &lt;p&gt;This site makes use of a variety of free and open source projects including:&lt;/p&gt;
